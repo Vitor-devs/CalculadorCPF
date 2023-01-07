@@ -10,8 +10,6 @@ print(cpf)
 cpf_soma = cpf[0:9]
 cpf_soma
 
-
-
 i = 0
 listaSoma = []
 for num in range(10,1,-1):
